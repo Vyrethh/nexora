@@ -8,9 +8,9 @@ print(r""" ╔══════════════════════
 ╚═══════════════════════════════════════════════════╝
 """)
 
-print("                         Enervo")
-print("         Network Recon & Port Scanner Toolkit v0.1")
-print("                    Author: Vyreth")
+print("                         Nexora")
+print("                    DNS Scanner Toolkit")
+print("                     Author: Vyreth")
 
 start = input("Start DNS Scan? Y/N: ")
 if start.lower() != 'y':
