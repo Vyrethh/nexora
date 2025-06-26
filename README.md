@@ -1,3 +1,6 @@
+THIS IS FOR EDUCATIONAL PURPOSES ONLY
+
+
 ts is a prototype/foundation for upcoming dns scanner thing as well as subdomain lookup, it'll do like reverse dns stuff and some other things 
 
 you need uh uhhhhhhhhhhhhhh you need... whats it called you need a library 
